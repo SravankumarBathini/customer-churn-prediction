@@ -1,0 +1,16 @@
+﻿churn_env/
+.venv/
+venv/
+ENV/
+data/*.db
+data/*.csv
+data/*.parquet
+models/*.pkl
+models/*.json
+models/*.model
+.vscode/
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
