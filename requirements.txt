@@ -1,4 +1,5 @@
 ﻿polars
+pyarrow
 numpy
 matplotlib
 scipy
